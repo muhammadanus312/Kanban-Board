@@ -1,0 +1,11 @@
+
+.card{
+margin: 15px 0px;
+transition: cubic-bezier(0.165, 0.84, 0.44, 1);
+
+}
+.card:hover{
+box-shadow: 0 2px 10px rgb(56, 57, 59);
+background-color: beige;
+transform: scale(1.03);
+}

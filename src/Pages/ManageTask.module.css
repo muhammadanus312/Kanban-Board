@@ -1,0 +1,11 @@
+.heading{
+    text-decoration: underline;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.taskColumn{
+   min-height: 300px;
+   background-color: bisque;
+   margin: 5px 20px;
+} 
